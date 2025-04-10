@@ -8,7 +8,9 @@ I’m Kath Pacheco✨
 <br/>
 📫 How to reach me ... It's simple kathepachecobaca@gmail.com or @katpachecob on Instagram
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
+<div>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="50" height="50" />
+</div>
 <!--
 **katpachecob/katpachecob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
